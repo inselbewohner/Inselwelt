@@ -1,3 +1,3 @@
 # Inselwelt
 Git-Laboratorium,
-Lorem ipsum bla bla, nice ideas, code for sharing
+Lorem ipsum bla bla, nice ideas, code to share 
